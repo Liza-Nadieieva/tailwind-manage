@@ -13,7 +13,7 @@ export default {
         brightRedLight: '#FF6666',
         brightRedSupLight: '#FF6666',
         darkBlue: '#00008B',
-        darkGrayIsBlue: '#5A6D7E',
+        darkGrayIshBlue: '#5A6D7E',
         veryDarkBlue: '#000033',
         veryPaleRed: '#FFB6C1',
         verylightGray: '#D3D3D3',
