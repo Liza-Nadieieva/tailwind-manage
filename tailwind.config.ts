@@ -16,7 +16,7 @@ export default {
         darkGrayIshBlue: '#5A6D7E',
         veryDarkBlue: '#000033',
         veryPaleRed: '#FFB6C1',
-        verylightGray: '#D3D3D3',
+        verylightGray: '#F5F5F5',
       },
     },
   },
